@@ -10,7 +10,7 @@
 
 **Windows 桌面应用 · 商业软件 · 预览版**
 
-[**下载安装**](https://github.com/Beritwu/weixin-sales-workbench/releases) · [**申请试用 / 购买**](#试用与购买) · [**完整功能**](docs/FEATURES.md) · [**安装指南**](docs/GETTING-STARTED.md)
+[**打开商品主页**](https://beritwu.github.io/weixin-sales-workbench/) · [**下载安装**](https://github.com/Beritwu/weixin-sales-workbench/releases) · [**申请试用 / 购买**](#试用与购买) · [**完整功能**](docs/FEATURES.md) · [**安装指南**](docs/GETTING-STARTED.md)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 **不只用于客户。** 也可以整理你自己的表达习惯和普通聊天对象的情况，不必把每段关系都当作销售线索。
 
-> **下载前请看：** 当前提供 Windows 预览版。真实微信连接、本地聊天读取和 AI 模型需要按使用者的电脑环境配置；首次运行的连接模式以安装指南为准。尚未把自动回复发送闭环作为完整通过验收的能力。建议加微信确认版本兼容性，并在协助配置后试用。
+> **下载前请看：** 当前提供 Windows 预览版。真实微信连接、本地聊天读取和 AI 模型需要按使用者的电脑环境配置；当前干净安装默认使用模拟连接，不能据此认定已连接真实微信。尚未把自动回复发送闭环作为完整通过验收的能力。建议加微信确认版本兼容性，并在协助配置后试用。
 
 ## 从三个按钮开始
 
