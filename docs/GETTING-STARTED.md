@@ -8,7 +8,7 @@
 
 ## 下载并登录
 
-下载 [0.2.13 Windows 安装包](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.13/WeixinSalesWorkbench-Setup-0.2.13.exe)，按安装向导完成安装，然后输入登录密钥。
+下载 [0.2.14 Windows 安装包](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.14/WeixinSalesWorkbench-Setup-0.2.14.exe)，按安装向导完成安装，然后输入登录密钥。
 
 安装包约 624 MB，已包含所需运行组件，安装后文件约占 1.6 GB。请为安装临时文件和自己的聊天数据另留空间。GitHub 下载区请选择 `.exe` 安装文件；Source code 压缩包是展示仓库文档。
 
@@ -53,7 +53,7 @@
 安装包暂未数字签名。如果 Windows 显示“未知发布者”，请先核对本仓库下载地址与发布页的 `SHA256SUMS.txt`。PowerShell 校验命令为：
 
 ```powershell
-Get-FileHash .\WeixinSalesWorkbench-Setup-0.2.13.exe -Algorithm SHA256
+Get-FileHash .\WeixinSalesWorkbench-Setup-0.2.14.exe -Algorithm SHA256
 ```
 
 需要配置协助、微信版本适配或遇到错误提示时，添加 [主页微信](../README.md#试用与购买)，发送软件版本和错误提示即可。

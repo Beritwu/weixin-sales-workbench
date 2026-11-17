@@ -8,7 +8,7 @@
 
 私人聊天记录整理 · 客户与联系人管理 · AI 回复草稿 · 销售业务协同
 
-**Windows 桌面应用 · 商业软件 · 0.2.13**
+**Windows 桌面应用 · 商业软件 · 0.2.14**
 
 [**打开商品主页**](https://beritwu.github.io/weixin-sales-workbench/) · [**下载安装**](https://github.com/Beritwu/weixin-sales-workbench/releases) · [**申请试用 / 购买**](#试用与购买) · [**完整功能**](docs/FEATURES.md) · [**安装指南**](docs/GETTING-STARTED.md)
 
@@ -20,7 +20,7 @@
 
 **适合个人聊天，也适合业务往来。** 整理自己的表达习惯与聊天对象资料，按需要使用客户、商品和交易功能。
 
-> **安装后按三个步骤开始：连接微信 → 选择模型 → 获取聊天记录。** 0.2.13 已内置运行组件，首次使用页面带你完成配置。支持读取已保存的网关密钥、获取模型列表和即时试答。
+> **安装后按三个步骤开始：连接微信 → 选择模型 → 获取聊天记录。** 0.2.14 已内置运行组件，首次使用页面带你完成配置。支持读取已保存的网关密钥、获取模型列表和即时试答。
 
 ## 从三个按钮开始
 
@@ -76,7 +76,7 @@
 
 ## 下载与更新
 
-- **当前版本：0.2.13 首次连接与分发更新** — [直接下载 Windows 安装包（约 624 MB，含运行组件）](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.13/WeixinSalesWorkbench-Setup-0.2.13.exe) · [版本说明](https://github.com/Beritwu/weixin-sales-workbench/releases/tag/v0.2.13) · [SHA-256 校验文件](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.13/SHA256SUMS.txt)
+- **当前版本：0.2.14 界面与操作提示更新** — [直接下载 Windows 安装包（约 624 MB，含运行组件）](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.14/WeixinSalesWorkbench-Setup-0.2.14.exe) · [版本说明](https://github.com/Beritwu/weixin-sales-workbench/releases/tag/v0.2.14) · [SHA-256 校验文件](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.14/SHA256SUMS.txt)
 - **安装包与版本说明**：[查看 Releases](https://github.com/Beritwu/weixin-sales-workbench/releases)
 - **上手步骤与依赖**：[安装指南](docs/GETTING-STARTED.md)
 - **常见问题**：[FAQ](docs/FAQ.md)
