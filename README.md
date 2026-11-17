@@ -76,6 +76,7 @@
 
 ## 下载与更新
 
+- **当前版本：0.2.12 配置体验预览版** — [直接下载 Windows 安装包（约132 MB）](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.12/WeixinSalesWorkbench-Setup-0.2.12.exe) · [版本说明](https://github.com/Beritwu/weixin-sales-workbench/releases/tag/v0.2.12) · [SHA-256 校验文件](https://github.com/Beritwu/weixin-sales-workbench/releases/download/v0.2.12/SHA256SUMS.txt)
 - **安装包与版本说明**：[查看 Releases](https://github.com/Beritwu/weixin-sales-workbench/releases)
 - **上手步骤与依赖**：[安装指南](docs/GETTING-STARTED.md)
 - **常见问题**：[FAQ](docs/FAQ.md)
