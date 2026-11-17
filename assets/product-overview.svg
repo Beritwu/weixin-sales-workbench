@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="660" viewBox="0 0 1440 660">
+<rect width="1440" height="660" rx="24" fill="#f6f3ed"/>
+<circle cx="1260" cy="30" r="230" fill="#ece2d4"/>
+<circle cx="1380" cy="630" r="200" fill="#e9eee5"/>
+<g font-family="Microsoft YaHei, PingFang SC, Arial, sans-serif">
+<rect x="64" y="62" width="62" height="62" rx="18" fill="#a85d42"/><text x="95" y="105" text-anchor="middle" fill="#fff" font-size="34" font-weight="700">微</text>
+<text x="144" y="88" fill="#74695e" font-size="16" letter-spacing="3">WEIXIN SALES WORKBENCH</text>
+<text x="144" y="117" fill="#3b332c" font-size="20">微信销售工作台</text>
+<text x="64" y="211" fill="#292620" font-size="50" font-weight="700">让每段沟通，都有后续。</text>
+<text x="64" y="255" fill="#74695e" font-size="22">从聊天整理，到回复草稿，再到清晰的跟进与记录。</text>
+<g transform="translate(64,310)">
+<rect width="410" height="224" rx="18" fill="#fffdf9" stroke="#ded7cb"/><text x="26" y="42" fill="#a85d42" font-size="15">01 / 理解对话</text><text x="26" y="82" fill="#292620" font-size="27" font-weight="700">获取 · 整理 · 调整</text><text x="26" y="122" fill="#74695e" font-size="18">本地文本记录 / 本人表达习惯</text><text x="26" y="154" fill="#74695e" font-size="18">聊天对象画像 / 原文核对</text><rect x="26" y="177" width="185" height="26" rx="13" fill="#efe3da"/><text x="118" y="195" text-anchor="middle" fill="#83513b" font-size="13">生成总结后可手动修改</text>
+</g>
+<g transform="translate(514,310)">
+<rect width="410" height="224" rx="18" fill="#fffdf9" stroke="#ded7cb"/><text x="26" y="42" fill="#a85d42" font-size="15">02 / 辅助回应</text><text x="26" y="82" fill="#292620" font-size="27" font-weight="700">上下文 · 草稿 · 人工确认</text><text x="26" y="122" fill="#74695e" font-size="18">AI 回复辅助 / 保存后的总结</text><text x="26" y="154" fill="#74695e" font-size="18">试答检查 / 紧急停止与接管</text><rect x="26" y="177" width="185" height="26" rx="13" fill="#e6eee4"/><text x="118" y="195" text-anchor="middle" fill="#486047" font-size="13">先看结果，再决定下一步</text>
+</g>
+<g transform="translate(964,310)">
+<rect width="410" height="224" rx="18" fill="#fffdf9" stroke="#ded7cb"/><text x="26" y="42" fill="#a85d42" font-size="15">03 / 持续跟进</text><text x="26" y="82" fill="#292620" font-size="27" font-weight="700">资料 · 任务 · 交易</text><text x="26" y="122" fill="#74695e" font-size="18">联系人 / 笔记 / 商品与库存</text><text x="26" y="154" fill="#74695e" font-size="18">报价与订单 / 台账与售后</text><rect x="26" y="177" width="185" height="26" rx="13" fill="#ede8e1"/><text x="118" y="195" text-anchor="middle" fill="#6b5c4f" font-size="13">统一工作区，按需使用</text>
+</g>
+<text x="64" y="601" fill="#74695e" font-size="16">Windows 桌面应用 · 私人聊天整理与销售跟进 · 扫码申请试用 / 购买</text>
+<text x="1374" y="631" text-anchor="end" fill="#9a9084" font-size="12">产品流程示意，非运行截图；能力受配置及版本支持范围影响</text>
+</g></svg>

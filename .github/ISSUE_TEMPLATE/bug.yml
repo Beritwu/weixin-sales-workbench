@@ -1,0 +1,28 @@
+name: 问题反馈
+description: 提交脱敏的使用问题与复现步骤
+title: "[问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿上传密钥、私人聊天、数据库或完整日志。试用购买请扫码联系主页微信。"
+  - type: input
+    id: version
+    attributes:
+      label: 软件版本
+      placeholder: 例如 0.2.12
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Windows 与微信版本
+  - type: textarea
+    id: steps
+    attributes:
+      label: 问题、复现步骤与预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: code
+    attributes:
+      label: 错误代码或脱敏截图
